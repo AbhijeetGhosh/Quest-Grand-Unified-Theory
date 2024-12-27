@@ -1,0 +1,32 @@
+To explore symbolic regression and equation discovery, particularly in the context of physics, several curated datasets are available that can serve as valuable resources for out experiments. Some notable ones are - 
+
+1. SRSD-Feynman Datasets:
+   - Description: These datasets are based on formulas from the Feynman Lectures on Physics, recreated to evaluate the performance of symbolic regression methods in scientific discovery.
+   - Access:
+     - GitHub Repository: [srsd-benchmark](https://github.com/omron-sinicx/srsd-benchmark)
+     - Hugging Face Dataset: [SRSD-Feynman (Easy set)](https://huggingface.co/datasets/yoshitomo-matsubara/srsd-feynman_easy)
+   - Reference Paper: [Rethinking Symbolic Regression Datasets and Benchmarks for Scientific Discovery](https://arxiv.org/abs/2206.10540)
+
+2. AI Feynman Dataset:
+   - Description: A collection of 100 physics equations from the Feynman Lectures, used to test the AI Feynman symbolic regression algorithm.
+   - Access:
+     - GitHub Repository: [AI Feynman](https://github.com/SJ001/AI-Feynman)
+   - Reference Paper: [AI Feynman: a Physics-Inspired Method for Symbolic Regression](https://arxiv.org/abs/1905.11481)
+
+3. SRBench Datasets:
+   - Description: A comprehensive benchmark for symbolic regression, including real-world datasets and synthetic equations, facilitating the evaluation of various symbolic regression methods.
+   - Access:
+     - GitHub Repository: [SRBench](https://github.com/EpistasisLab/srbench)
+   - Reference Paper: [Contemporary Symbolic Regression Methods and their Relative Performance](https://arxiv.org/abs/2107.14351)
+
+4. LLM-SR Dataset:
+   - Description: Datasets used for scientific equation discovery and symbolic regression via programming with large language models.
+   - Access:
+     - GitHub Repository: [LLM-SR](https://github.com/deep-symbolic-mathematics/LLM-SR)
+
+5. Awesome Symbolic Regression:
+   - Description: A curated list of resources, including datasets, related to symbolic regression.
+   - Access:
+     - GitHub Repository: [Awesome Symbolic Regression](https://github.com/timechess/awesome-symbolic-regression)
+
+These datasets provide a solid foundation for experimenting with symbolic regression and equation discovery, offering a range of challenges from simple equations to complex physical laws. 
